@@ -1,0 +1,36 @@
+mat-grid-list {
+  background: #e91e63;
+  color: azure;
+}
+
+a:-webkit-any-link {
+  cursor: pointer;
+  color: azure;
+  text-decoration:none
+}
+
+.mat-icon {
+  -webkit-user-select: none;
+  user-select: none;
+  background-repeat: no-repeat;
+  display: inline-block;
+  fill: currentColor;
+  height: 14px;
+  width: 13px;
+  overflow: hidden;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+}
